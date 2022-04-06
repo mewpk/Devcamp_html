@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    font-size: 20px;
+    background-color: black;
+    padding: 20px 20px;
+    text-align: center;
+}
+.navbar li{
+    display: inline;
+    margin-left: 30px;
+}
+.navbar a{
+    text-decoration: none;
+    color: white;
+}
+.topic{
+    margin-top: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+.content img{
+    height: 200px;
+    width: 200px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+.content p {
+    margin: 30px 40px;
+    text-indent: 40px;
+}
+.content ul{
+    text-align: center;
+}
+.content li{
+    margin-top: 30px;
+}
+.app img{
+    height: 300px;
+    width: 300px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+}
+.app table tr{
+    margin-left: 500px;
+}
